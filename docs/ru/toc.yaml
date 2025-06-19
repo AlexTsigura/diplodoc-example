@@ -9,5 +9,5 @@ items:
     href: anotherpage.md
   - name: Подраздел
     include:
-      path: sub-section/toc.yaml
+      path: petstore-api-draft.yaml.yaml
       mode: link
