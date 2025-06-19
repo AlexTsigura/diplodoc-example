@@ -9,5 +9,5 @@ items:
     href: anotherpage.md
   - name: Подраздел
     include:
-      path: sub-selection/toc.yaml
+      path: sub-section/toc.yaml
       mode: link
