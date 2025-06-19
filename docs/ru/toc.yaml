@@ -2,7 +2,7 @@ title: Шаблон проекта документации
 href: index.yaml
 items: 
   - name: О проекте
-    href: petstore-api-draft.yaml.yaml
+    href: about.md
   - name: Дополнительная страница
     href: page.md
   - name: Другая страница
