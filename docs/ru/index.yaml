@@ -1,7 +1,7 @@
 title: Шаблон документации
 links:
-  - title: О проекте
-    href: about.md
+  - title: Swagger Petstore API 
+    href: petstore-api-draft.yaml.yaml
   - title: Страница Diplodoc на главной странице
     href: page.md
   - title: Структура YFM на главной странице
