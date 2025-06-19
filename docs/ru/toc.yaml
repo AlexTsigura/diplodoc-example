@@ -6,5 +6,5 @@ items:
       path: petstore-api-draft
       includers:
         - name: petstore-api-draft
-          input: petstore-api-draft.yaml
+      path: sub-selection/toc.yaml
       mode: link
