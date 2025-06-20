@@ -1,3 +1,5 @@
+output: html
+allowHTML: true
 langs: ['ru', 'en']
 
 
