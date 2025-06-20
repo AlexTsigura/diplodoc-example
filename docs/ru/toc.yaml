@@ -1,9 +1,5 @@
-title: documentation
-href: index.yaml
-items:
-  - name: openapi
-    include:
-      path: openapi.yaml
+ - include:
+      path: .
       includers:
         - name: openapi
           input: /ru/openapi.yaml
