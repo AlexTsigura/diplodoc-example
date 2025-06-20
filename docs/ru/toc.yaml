@@ -9,11 +9,11 @@ items:
     href: anotherpage.md
   - name: Подраздел
   - include:
-    path:
-    includers:
-      -name: openapi
-      input: /ru/openapi.yaml
-    mode: link
+      path:
+      includers:
+        - name: openapi
+          input: /ru/openapi.yaml
+      mode: link
 
 
 
