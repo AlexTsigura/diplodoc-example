@@ -8,8 +8,12 @@ items:
   - name: Другая страница
     href: anotherpage.md
   - name: Подраздел
-    include:
-      path: sub-section/toc.yaml
-      mode: link
+  - include:
+    path:
+    includers:
+      -name: openapi
+      input: /ru/openapi.yaml
+    mode: link
+
 
 
