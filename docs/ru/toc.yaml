@@ -1,9 +1,0 @@
- - include:
-      path: .
-      includers:
-        - name: openapi
-          input: /ru/openapi.yaml
-      mode: link
-
-
-
