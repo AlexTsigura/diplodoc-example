@@ -1,3 +1,4 @@
+outputFormat: html
 allowHTML: true
 langs: ['ru', 'en']
 
