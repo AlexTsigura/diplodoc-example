@@ -1,13 +1,9 @@
-title: Шаблон проекта документации
-href: index.yaml
-items: 
-  - name: О проекте
-    href: about.md
-  - name: Дополнительная страница
-    href: page.md
-  - name: Другая страница
-    href: anotherpage.md
-  - name: Подраздел
-    include:
-      path: sub-section/toc.yaml
+ - include:
+      path: .
+      includers:
+        - name: openapi
+          input: /ru/openapi.yaml
       mode: link
+
+
+
