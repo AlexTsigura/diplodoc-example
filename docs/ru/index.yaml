@@ -1,0 +1,8 @@
+title: Swagger Petstore API
+links:
+  - title: API Reference
+    href: openapi/  
+  - title: Getting Started
+    href: getting_started.md
+  - title: Authentication Guide
+    href: auth.md
