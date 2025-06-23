@@ -6,7 +6,7 @@ items:
       path: openapi
       includers:
         - name: openapi
-          input: openAPI.yaml
+          input: openapi.yaml
       mode: link
 
 # Настройка тегов (переименовываем разделы)
