@@ -1,7 +1,1 @@
 allowHTML: true
-outputFormat: html
-
-langs: ['ru', 'en']
-
-docs-viewer:
-  langs: ['en','ru']
