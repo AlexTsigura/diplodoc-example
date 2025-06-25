@@ -9,6 +9,8 @@ navigation:
 items:
   - name: Authorization
     href: auth.md
+  - name: Servers for tests
+    href: Servers.md
   - name: API Reference
     include:
       path: openapi
@@ -35,11 +37,7 @@ tags:
     name: "User Accounts"
     path: users_guide.md
     alias: 'users'
-
-sandbox:
-  tabName: Production environment
-  hosts: 'https://petstore3.swagger.io/api/v3'
-      
+     
 leadingPage:
   name: "Petstore API v1.0"
   spec:

@@ -4,3 +4,5 @@ links:
     href: openapi/  
   - title: Authorization
     href: en/auth.md
+  - title: Servers for tests
+    href: en/Servers.md
