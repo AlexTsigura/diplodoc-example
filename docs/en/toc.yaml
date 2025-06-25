@@ -35,7 +35,7 @@ tags:
     alias: 'users'
 
 sandbox:
-  tabName: "Production environment"
+  tabName: Production environment
   hosts: 'https://petstore3.swagger.io/api/v3'
       
 leadingPage:
