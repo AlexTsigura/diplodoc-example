@@ -1,10 +1,11 @@
 title: Petstore API Documentation
 href: index.yaml
-header:
-    leftItems:
-      - type: link
-        text: Pet_store API
-        url: ./index.html
+navigation:
+    header:
+        leftItems:
+          - type: link
+            text: Pet_store API
+            url: ./index.html
 items:
   - name: Pet_store API
     include:
