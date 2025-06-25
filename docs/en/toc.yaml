@@ -7,8 +7,8 @@ navigation:
             text: Pet_store API
             url: ./index.html
 items:
-  - title: Authorization
-    href: en/auth.md
+  - name: Authorization
+    href: auth.md
   - name: API Reference
     include:
       path: openapi
