@@ -10,7 +10,7 @@ items:
   - name: Authorization
     href: auth.md
   - name: Servers for tests
-    href: Servers.md
+    href: servers.md
   - name: API Reference
     include:
       path: openapi
