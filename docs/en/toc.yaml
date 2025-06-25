@@ -39,15 +39,4 @@ leadingPage:
   spec:
     renderMode: inline  
 
-sandbox:
-  tabName: "Try it out!"
-  hosts:
-    - url: "https://petstore3.swagger.io/api/v3"
-      description: "Production environment"
-    - url: "https://sandbox.petstore.io/api/v3" 
-      description: "Test environment"
 
-filter:
-  endpoint: tags contains "nobuild" != true
-noindex:
-  tag: name == "noindex"
