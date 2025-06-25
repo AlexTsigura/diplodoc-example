@@ -2,6 +2,9 @@ openapi: 3.0.4
 info:
   title: Swagger Petstore - OpenAPI 3.0
   version: 1.0.0
+servers:
+  - url: https://petstore3.swagger.io/api/v3
+  - url: https://sandbox.petstore.io/api/v3
 tags:
   - name: pet
     description: Everything about your Pets

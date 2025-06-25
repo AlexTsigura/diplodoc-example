@@ -9,7 +9,6 @@ items:
           input: openapi.yaml
       mode: link
 
-# Настройка тегов (переименовываем разделы)
 tags:
   __root__:
     name: "Petstore API Overview"
@@ -36,7 +35,11 @@ leadingPage:
 
 sandbox:
   tabName: "Try it out!"
-  host: "https://petstore3.swagger.io/api/v3"
+  hosts:
+    - url: "https://petstore3.swagger.io/api/v3"
+      description: "Production environment"
+    - url: "https://sandbox.petstore.io/api/v3" 
+      description: "Test environment"
 
 filter:
   endpoint: tags contains "nobuild" != true
